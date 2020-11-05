@@ -6,11 +6,10 @@ h1{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: whitesmoke;
-    margin: 4%;
-    width: 40%;
-    height: 40%;
+    margin: 2%;
     position: absolute;
-    right: 370px;
+    right: 550px;
+    font-size: 200%;
 }
 img{
     position: absolute;
@@ -56,4 +55,15 @@ p{
     position: absolute;
     top: 250px;
     right: 180px;
+}
+ a:hover{
+    color: hotpink;
+    width: 45%;
+    height: 45%;
+}
+h1:hover{
+    font-size: 300%;
+}
+img:hover{
+    transform: rotate(-15deg);
 }
