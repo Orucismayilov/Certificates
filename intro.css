@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: aqua;
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    border: 1px solid black;
+}
+a{
+    text-decoration: none;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th{
+    color: darkkhaki;
+    background-color: darkgoldenrod;
+    height: 50px;
+    font-size: x-large;
+}
+
+td{
+    color: darkseagreen;
+    background-color: dimgrey;
+}
